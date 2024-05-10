@@ -5,3 +5,4 @@ for i in range(1,6):
 
 print("Ok I lied, nothing is going to happen.")
 print("Have a good day.")
+print("Auto Build.")
